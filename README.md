@@ -1,6 +1,6 @@
 # Tarea-8
 Maquinas virtuales y comunicación entre ellas
-### Instalaci+on de maquina virtual de Rocky Linux
+### Instalación de maquina virtual de Rocky Linux
 
 Proceso de configuración y reiniciación de la MV
 <img width="1282" height="858" alt="image" src="https://github.com/user-attachments/assets/3a091718-f646-4ef9-bb88-d34f04b64f64" />
@@ -16,10 +16,10 @@ Se instalo y se abrio Kali Linux desde el terminal:
 Tambien se visualiza al principio que no es booteable, entonces, lo que se hizo fue ibligarlo a iniciarce para iniciar su configuranción
 <img width="1600" height="719" alt="image" src="https://github.com/user-attachments/assets/5095ef8d-a1f9-4352-a03c-e4b7d7daf9c4" />
 
-Ya abierto Kali Linux terminado su configuración de usuario, se verifico con los comandos de ip addr y ping -c 3 8.8.8.8, su coneccion a la red, como se puede observar a continuación:
+Ya abierto Kali Linux y terminado su configuración de usuario, se verifico con los comandos de ip addr y ping -c 3 8.8.8.8, su coneccion a la red, como se puede observar a continuación:
 <img width="1277" height="659" alt="image" src="https://github.com/user-attachments/assets/28344560-fc65-4562-9115-8e20c4c73153" />
 
-### INstalación de maquina virtual de Windows
+### Instalación de maquina virtual de Windows
 
 
 
